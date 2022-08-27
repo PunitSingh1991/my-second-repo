@@ -1,8 +1,27 @@
 h1 {
+    align-items: center;
     color: green;
     font-size: 70px;
+}
+h2 {
+    color: greenyellow;
 }
 body {
     color: rgb(206, 230, 245);
     background-color: grey;
+}
+header {
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+}
+p {
+    font-size: 20px;
+}
+footer {
+    background-color:white;
+    color: darkgreen;
+
 }
